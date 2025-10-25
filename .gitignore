@@ -2,3 +2,4 @@ vevn
 *.pt
 *.pgn
 *.exe
+__pycache__
