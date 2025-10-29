@@ -1,0 +1,5 @@
+vevn
+*.pgn
+__pycache__/
+.txt
+*.pth
